@@ -60,7 +60,7 @@ footer a {
 .container {
   max-width: 1440px;
   margin: 0 auto;
-  margin-top: 172px;
+  margin-top: 50px;
   border-radius: 8px;
   display: flex;
   flex-direction: column;
