@@ -39,11 +39,14 @@ footer a {
 
 .card {
   display: flex;
-  width: 921px;
-  height: 500px;
   margin: 0 auto;
   flex: 1;
   padding: 48px;
+}
+
+.card-group {
+  width: 921px;
+  height: 550px;
 }
 
 .card-title {
